@@ -41,6 +41,10 @@ Abridge, Anterior, Tennr, Flagship Pioneering
 
 *And 81+ other innovative AI & tech companies...*
 
+
+* If you would like to see final results in Notion:
+https://www.notion.so/xiaoshuaifm/22aa175fa91c80c1a09fe1911721e2cc?v=22aa175fa91c80439bd0000c8ddbdf1f
+
 ## 📊 Quick Stats
 
 - **932** active positions
