@@ -1,0 +1,111 @@
+{
+  "company": "Vannevar Labs",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 7,
+  "positions": [
+    {
+      "role_name": "Cleared Forward Deployed Engineer",
+      "location": "Remote; San Francisco, California, United States",
+      "job_link": "https://job-boards.greenhouse.io/vannevarlabs/jobs/4252109007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-06-25",
+      "compensation": "Not disclosed",
+      "job_id": "ed93f6c2",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Vannevar Labs"
+    },
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "Remote",
+      "job_link": "https://job-boards.greenhouse.io/vannevarlabs/jobs/4172610007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-06-25",
+      "compensation": "Not disclosed",
+      "job_id": "3efb76c0",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Vannevar Labs"
+    },
+    {
+      "role_name": "Full Stack Engineer (FDE, ATO) - Clearance Required",
+      "location": "San Diego, California",
+      "job_link": "https://job-boards.greenhouse.io/vannevarlabs/jobs/4720228007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-09",
+      "compensation": "Not disclosed",
+      "job_id": "0a10e500",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Vannevar Labs"
+    },
+    {
+      "role_name": "Senior Full Stack Engineer - Hybrid ",
+      "location": "Seattle, Washington, United States",
+      "job_link": "https://job-boards.greenhouse.io/vannevarlabs/jobs/4782844007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-08",
+      "compensation": "Not disclosed",
+      "job_id": "82b1de22",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Vannevar Labs"
+    },
+    {
+      "role_name": "Senior Full Stack Engineer, Geospatial ",
+      "location": "Remote",
+      "job_link": "https://job-boards.greenhouse.io/vannevarlabs/jobs/4274985007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-06-25",
+      "compensation": "Not disclosed",
+      "job_id": "fd4708bd",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Vannevar Labs"
+    },
+    {
+      "role_name": "Senior Machine Learning Engineer, Agents",
+      "location": "Remote",
+      "job_link": "https://job-boards.greenhouse.io/vannevarlabs/jobs/4771514007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-29",
+      "compensation": "Not disclosed",
+      "job_id": "d5374fb2",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Vannevar Labs"
+    },
+    {
+      "role_name": "Senior Software Engineer - Hybrid",
+      "location": "Seattle, Washington, United States",
+      "job_link": "https://job-boards.greenhouse.io/vannevarlabs/jobs/4781635007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-07",
+      "compensation": "Not disclosed",
+      "job_id": "ae7f35d4",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Vannevar Labs"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 7,
+    "closed_positions_today": 0,
+    "us_positions": 3,
+    "remote_positions": 4
+  }
+}

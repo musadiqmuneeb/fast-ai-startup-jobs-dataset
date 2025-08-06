@@ -1,0 +1,55 @@
+{
+  "company": "Variance",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "Forward Deployed AI Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-03-31",
+      "compensation": "",
+      "job_id": "1cd77cda",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Variance"
+    },
+    {
+      "role_name": "Full Stack Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/intrinsic-safety/1538d13b-c300-41ea-84bb-a0c5baabae0f",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-03-18",
+      "compensation": "",
+      "job_id": "dd59d60d",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Variance"
+    },
+    {
+      "role_name": "Senior Backend Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/intrinsic-safety/65df9164-520d-404b-93c8-33ac68fcf2e3",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-03-31",
+      "compensation": "",
+      "job_id": "a2748953",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Variance"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

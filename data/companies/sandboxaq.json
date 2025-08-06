@@ -1,0 +1,55 @@
+{
+  "company": "SandboxAQ",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "Senior Software Engineer, Golang",
+      "location": "Remote, USA",
+      "job_link": "https://www.sandboxaq.com/job-openings?gh_jid=5477844004",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-29",
+      "compensation": "Not disclosed",
+      "job_id": "3bcd1891",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "SandboxAQ"
+    },
+    {
+      "role_name": "Senior Staff Software Engineer - AQNav",
+      "location": "Remote, USA",
+      "job_link": "https://www.sandboxaq.com/job-openings?gh_jid=5601938004",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-31",
+      "compensation": "Not disclosed",
+      "job_id": "d8f5fa0d",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "SandboxAQ"
+    },
+    {
+      "role_name": "Senior/Staff AI Engineer",
+      "location": "Remote, USA",
+      "job_link": "https://www.sandboxaq.com/job-openings?gh_jid=5495343004",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-05-13",
+      "compensation": "Not disclosed",
+      "job_id": "696304af",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "SandboxAQ"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 3,
+    "remote_positions": 3
+  }
+}

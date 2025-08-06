@@ -1,0 +1,83 @@
+{
+  "company": "Lilt",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 5,
+  "positions": [
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "San Francisco, CA",
+      "job_link": "https://jobs.ashbyhq.com/lilt/1e64c672-0e3b-4974-b902-995591f450cc",
+      "employment_type": "FullTime",
+      "team": "Customer Engineering",
+      "published_date": "2025-06-30",
+      "compensation": "$100K – $175K • Offers Equity",
+      "job_id": "20e688ab",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Lilt"
+    },
+    {
+      "role_name": "Senior Backend Engineer",
+      "location": "Indianapolis, IN",
+      "job_link": "https://jobs.ashbyhq.com/lilt/07efb607-1a2d-4131-a230-5a3a38d4decc",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-02-18",
+      "compensation": "$93K – $150K • Offers Equity",
+      "job_id": "0adad447",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Lilt"
+    },
+    {
+      "role_name": "Senior Full Stack Engineer",
+      "location": "Indianapolis, IN",
+      "job_link": "https://jobs.ashbyhq.com/lilt/844aa3ba-85d9-4a3b-9029-d0239e0924f2",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-03",
+      "compensation": "$141K – $165K • Offers Equity",
+      "job_id": "c8776e67",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Lilt"
+    },
+    {
+      "role_name": "Senior Manager, Customer Engineering",
+      "location": "Indianapolis, IN",
+      "job_link": "https://jobs.ashbyhq.com/lilt/b99ed3a6-8186-4e47-b03e-35d336a2d10a",
+      "employment_type": "FullTime",
+      "team": "Operations",
+      "published_date": "2025-07-07",
+      "compensation": "",
+      "job_id": "90b46a2d",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Lilt"
+    },
+    {
+      "role_name": "Staff Full Stack Engineer",
+      "location": "Boston, MA",
+      "job_link": "https://jobs.ashbyhq.com/lilt/adf55a75-cfd9-4dd1-b25f-471bfd326271",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-02",
+      "compensation": "$136K – $180K • Offers Equity",
+      "job_id": "0f4776fa",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Lilt"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 5,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

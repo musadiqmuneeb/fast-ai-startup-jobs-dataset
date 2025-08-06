@@ -1,0 +1,55 @@
+{
+  "company": "Oso",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "Customer Engineer",
+      "location": "New York",
+      "job_link": "https://jobs.ashbyhq.com/Oso/f43fb952-56ad-4056-98a0-1228ac861ceb",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-03-24",
+      "compensation": "",
+      "job_id": "0632547e",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Oso"
+    },
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "New York or Remote (US Timezones)",
+      "job_link": "https://jobs.ashbyhq.com/Oso/acd0f9bf-69a4-44a6-a100-1a5e5db15248",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-03",
+      "compensation": "",
+      "job_id": "ae923877",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Oso"
+    },
+    {
+      "role_name": "Forward Deployed Engineering Lead",
+      "location": "New York",
+      "job_link": "https://jobs.ashbyhq.com/Oso/c4b0c630-745f-45d3-b47c-da94727c5ab1",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-05-20",
+      "compensation": "",
+      "job_id": "ad2ec009",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Oso"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 1,
+    "remote_positions": 1
+  }
+}

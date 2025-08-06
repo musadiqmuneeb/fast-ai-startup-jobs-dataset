@@ -1,0 +1,41 @@
+{
+  "company": "Privy",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 2,
+  "positions": [
+    {
+      "role_name": "Backend Engineer",
+      "location": "New York",
+      "job_link": "https://jobs.ashbyhq.com/privy/99f0b393-a6f3-4017-a12a-52b0a07a0ded",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-02-25",
+      "compensation": "",
+      "job_id": "4587ffc7",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Privy"
+    },
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "Remote",
+      "job_link": "https://jobs.ashbyhq.com/privy/4329514d-c570-4121-b724-862ae24067ef",
+      "employment_type": "FullTime",
+      "team": "Developer Success",
+      "published_date": "2024-12-06",
+      "compensation": "",
+      "job_id": "d0719996",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Privy"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 2,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 1
+  }
+}

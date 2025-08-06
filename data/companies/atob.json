@@ -1,0 +1,69 @@
+{
+  "company": "AtoB",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 4,
+  "positions": [
+    {
+      "role_name": "Senior Software Engineer, Full Stack",
+      "location": "San Francisco Bay Area",
+      "job_link": "https://jobs.ashbyhq.com/atob/8650f3d0-6e31-4808-a2e6-728ca332368c",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2024-08-16",
+      "compensation": "$150K – $225K • $400K – $600K Equity • Offers Bonus • Multiple Ranges",
+      "job_id": "106e2100",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "AtoB"
+    },
+    {
+      "role_name": "Senior Software Engineer, Payments",
+      "location": "San Francisco Bay Area",
+      "job_link": "https://jobs.ashbyhq.com/atob/523e5c4e-4c2d-495c-a50a-3535652158c9",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-02",
+      "compensation": "$150K – $225K • $400K – $600K Equity • Offers Bonus • Multiple Ranges",
+      "job_id": "f2d7e464",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "AtoB"
+    },
+    {
+      "role_name": "Staff Software Engineer, Full Stack",
+      "location": "San Francisco Bay Area",
+      "job_link": "https://jobs.ashbyhq.com/atob/0588bcf7-4956-4b6c-b2a4-37dc183f9d04",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2024-08-16",
+      "compensation": "$225K – $300K • $600K – $1M Equity • Offers Bonus • Multiple Ranges",
+      "job_id": "0de7c350",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "AtoB"
+    },
+    {
+      "role_name": "Staff Software Engineer, Payments",
+      "location": "San Francisco Bay Area",
+      "job_link": "https://jobs.ashbyhq.com/atob/db518316-9a1e-44d8-9907-a436b0a18c76",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-02",
+      "compensation": "$225K – $300K • $600K – $1M Equity • Offers Bonus • Multiple Ranges",
+      "job_id": "89590458",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "AtoB"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 4,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

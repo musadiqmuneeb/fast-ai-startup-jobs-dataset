@@ -1,0 +1,55 @@
+{
+  "company": "Vooma",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "San Francisco Office",
+      "job_link": "https://jobs.ashbyhq.com/vooma/19e61d82-8d3d-453d-815d-051bf1fc57d3",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-05-29",
+      "compensation": "",
+      "job_id": "c8e1214e",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Vooma"
+    },
+    {
+      "role_name": "Software Engineer: Backend & Infrastructure",
+      "location": "San Francisco Office",
+      "job_link": "https://jobs.ashbyhq.com/vooma/27eff832-988e-4d53-a6b4-b758085ae334",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-01",
+      "compensation": "",
+      "job_id": "26b6f478",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Vooma"
+    },
+    {
+      "role_name": "Solutions Engineer",
+      "location": "San Francisco Office",
+      "job_link": "https://jobs.ashbyhq.com/vooma/927a4d1e-1361-4aab-ad29-7abd8221146c",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-03-13",
+      "compensation": "",
+      "job_id": "e0897433",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Vooma"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

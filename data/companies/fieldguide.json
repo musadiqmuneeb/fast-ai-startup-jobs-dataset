@@ -1,0 +1,69 @@
+{
+  "company": "FieldGuide",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 4,
+  "positions": [
+    {
+      "role_name": "Manager, Machine Learning Engineering ",
+      "location": "San Francisco, CA or Remote (USA)",
+      "job_link": "https://jobs.ashbyhq.com/fieldguide/aa97d06c-8052-4289-a4f9-accad5e6d8f5",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-22",
+      "compensation": "$200K – $265K • Offers Equity • Offers Bonus",
+      "job_id": "acd6a914",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "FieldGuide"
+    },
+    {
+      "role_name": "Senior Machine Learning Engineer",
+      "location": "San Francisco, CA or Remote (USA)",
+      "job_link": "https://jobs.ashbyhq.com/fieldguide/e11a7aea-ae86-44d7-913c-591a8a7d0803",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2024-09-04",
+      "compensation": "$192K – $253K • Offers Equity • Multiple Ranges",
+      "job_id": "05a4983f",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "FieldGuide"
+    },
+    {
+      "role_name": "Senior Software Engineer, AI",
+      "location": "San Francisco, CA or Remote (USA)",
+      "job_link": "https://jobs.ashbyhq.com/fieldguide/9823b0c9-e5c3-4bf7-940b-d759c36cd609",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-05-01",
+      "compensation": "$160K – $210K • Offers Equity • Multiple Ranges",
+      "job_id": "08b653ed",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "FieldGuide"
+    },
+    {
+      "role_name": "Staff Machine Learning Engineer",
+      "location": "San Francisco, CA or Remote (USA)",
+      "job_link": "https://jobs.ashbyhq.com/fieldguide/63597060-ff7b-4ffa-b2e2-c41a5b90087c",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-22",
+      "compensation": "$250K – $280K • Offers Equity",
+      "job_id": "47f66029",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "FieldGuide"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 4,
+    "closed_positions_today": 0,
+    "us_positions": 4,
+    "remote_positions": 4
+  }
+}

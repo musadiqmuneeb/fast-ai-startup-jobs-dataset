@@ -1,0 +1,83 @@
+{
+  "company": "Replit",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 5,
+  "positions": [
+    {
+      "role_name": "Senior Software Engineer, Money",
+      "location": "Foster City, CA (Hybrid) In office M,W,F",
+      "job_link": "https://jobs.ashbyhq.com/replit/0a71787b-1b86-4f86-be79-0a9723d75cc7",
+      "employment_type": "FullTime",
+      "team": "Product Engineering",
+      "published_date": "2025-02-28",
+      "compensation": "",
+      "job_id": "bc1724af",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Replit"
+    },
+    {
+      "role_name": "Software Engineer, Distributed Systems",
+      "location": "Foster City, CA (Hybrid) In office M,W,F",
+      "job_link": "https://jobs.ashbyhq.com/replit/659a8e1e-69ba-44c0-a632-96665051a3e8",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-04-04",
+      "compensation": "",
+      "job_id": "7b5609a3",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Replit"
+    },
+    {
+      "role_name": "Software Engineer, Full Stack",
+      "location": "Foster City, CA (Hybrid) In office M,W,F",
+      "job_link": "https://jobs.ashbyhq.com/replit/2fa2d079-96a5-4d51-8718-04134ed39032",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-04-04",
+      "compensation": "",
+      "job_id": "be630bb5",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Replit"
+    },
+    {
+      "role_name": "Software Engineer, Mobile",
+      "location": "Foster City, CA (Hybrid) In office M,W,F",
+      "job_link": "https://jobs.ashbyhq.com/replit/8fbbe594-596a-4a4f-844b-dc00111e717f",
+      "employment_type": "FullTime",
+      "team": "Platform",
+      "published_date": "2025-03-27",
+      "compensation": "",
+      "job_id": "fefaf099",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Replit"
+    },
+    {
+      "role_name": "Staff Software Engineer, Product",
+      "location": "Foster City, CA (Hybrid) In office M,W,F",
+      "job_link": "https://jobs.ashbyhq.com/replit/47235851-fadd-4bd7-9cc6-61f545059ac1",
+      "employment_type": "FullTime",
+      "team": "Product Engineering",
+      "published_date": "2025-04-30",
+      "compensation": "",
+      "job_id": "2c712db4",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Replit"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 5,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

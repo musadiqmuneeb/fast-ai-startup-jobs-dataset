@@ -1,0 +1,69 @@
+{
+  "company": "FluidStack",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 4,
+  "positions": [
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/fluidstack/fb45b5dc-614e-40dd-ac5d-b1a43014ee46",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-01-31",
+      "compensation": "",
+      "job_id": "36dd300d",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "FluidStack"
+    },
+    {
+      "role_name": "Product Engineer, DCIM",
+      "location": "New York City",
+      "job_link": "https://jobs.ashbyhq.com/fluidstack/12fae26d-623e-4422-8578-7fdfc89ecae9",
+      "employment_type": "FullTime",
+      "team": "Infrastructure",
+      "published_date": "2025-08-02",
+      "compensation": "",
+      "job_id": "962eda69",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "FluidStack"
+    },
+    {
+      "role_name": "Senior/Staff Software Engineer, DCIM",
+      "location": "New York City",
+      "job_link": "https://jobs.ashbyhq.com/fluidstack/d2bd9cff-badb-46a2-b32a-91721354ef0a",
+      "employment_type": "FullTime",
+      "team": "Infrastructure",
+      "published_date": "2025-08-02",
+      "compensation": "",
+      "job_id": "f710e1ae",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "FluidStack"
+    },
+    {
+      "role_name": "Technical Account Manager ",
+      "location": "US Remote",
+      "job_link": "https://jobs.ashbyhq.com/fluidstack/7519243a-95c6-4050-9152-5ae485a3ac57",
+      "employment_type": "FullTime",
+      "team": "Sales",
+      "published_date": "2025-06-12",
+      "compensation": "",
+      "job_id": "fa380496",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "FluidStack"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 4,
+    "closed_positions_today": 0,
+    "us_positions": 1,
+    "remote_positions": 1
+  }
+}

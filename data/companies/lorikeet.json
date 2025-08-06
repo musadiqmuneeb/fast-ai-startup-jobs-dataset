@@ -1,0 +1,55 @@
+{
+  "company": "Lorikeet",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "Forward Deployed AI Engineer",
+      "location": "US - Remote",
+      "job_link": "https://jobs.ashbyhq.com/lorikeet/0c72da73-cd31-4702-b9f1-c26b20932702",
+      "employment_type": "FullTime",
+      "team": "Post-Sales",
+      "published_date": "2025-06-17",
+      "compensation": "",
+      "job_id": "7d266194",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Lorikeet"
+    },
+    {
+      "role_name": "Head of Forward Deployed Engineering ",
+      "location": "US - Remote",
+      "job_link": "https://jobs.ashbyhq.com/lorikeet/76f2db29-3bf6-47cd-8a67-6e6fcf4fdc57",
+      "employment_type": "FullTime",
+      "team": "Post-Sales",
+      "published_date": "2025-07-11",
+      "compensation": "",
+      "job_id": "c4472467",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Lorikeet"
+    },
+    {
+      "role_name": "Solutions Engineer",
+      "location": "US - Remote",
+      "job_link": "https://jobs.ashbyhq.com/lorikeet/d4d680d9-fc2c-4ada-89c9-49ec594d730d",
+      "employment_type": "FullTime",
+      "team": "Post-Sales",
+      "published_date": "2025-06-18",
+      "compensation": "",
+      "job_id": "01a3737e",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Lorikeet"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 3,
+    "remote_positions": 3
+  }
+}

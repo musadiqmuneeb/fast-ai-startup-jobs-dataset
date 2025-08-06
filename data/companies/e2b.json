@@ -1,0 +1,41 @@
+{
+  "company": "E2B",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 2,
+  "positions": [
+    {
+      "role_name": "AI Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/e2b/977d9b9b-f781-468a-8cf0-58bcd5e39975",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-27",
+      "compensation": "",
+      "job_id": "3cd13d0a",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "E2B"
+    },
+    {
+      "role_name": "Customer Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/e2b/eb9fc89c-735e-4d52-aefe-8a96a46e5da6",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-26",
+      "compensation": "",
+      "job_id": "2a91985c",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "E2B"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 2,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

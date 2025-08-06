@@ -1,0 +1,97 @@
+{
+  "company": "Abridge",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 6,
+  "positions": [
+    {
+      "role_name": "AI Software Engineer Evaluation Platform",
+      "location": "San Francisco-Hybrid",
+      "job_link": "https://jobs.ashbyhq.com/abridge/6795dd3d-e89f-4cd0-a960-59351d92c22c",
+      "employment_type": "FullTime",
+      "team": "Foundations Engineering",
+      "published_date": "2025-07-30",
+      "compensation": "$192.5K – $268K",
+      "job_id": "60e998c6",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Abridge"
+    },
+    {
+      "role_name": "Full Stack Engineer, Product ",
+      "location": "San Francisco-Onsite",
+      "job_link": "https://jobs.ashbyhq.com/abridge/03699ed8-5cf5-4917-96a6-101f15a653e5",
+      "employment_type": "FullTime",
+      "team": "Product Engineering",
+      "published_date": "2025-04-16",
+      "compensation": "$162K – $234K • Offers Equity",
+      "job_id": "6988c767",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Abridge"
+    },
+    {
+      "role_name": "Implementation Engineer (Remote)",
+      "location": "San Francisco-Hybrid",
+      "job_link": "https://jobs.ashbyhq.com/abridge/fefe2e4a-b05f-430b-b8fe-e748865d9444",
+      "employment_type": "FullTime",
+      "team": "Implementations",
+      "published_date": "2025-07-15",
+      "compensation": "$170K – $215K • Offers Equity",
+      "job_id": "7c60c856",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Abridge"
+    },
+    {
+      "role_name": "Implementation Engineer, Federal Accounts",
+      "location": "United States-Remote",
+      "job_link": "https://jobs.ashbyhq.com/abridge/73046151-dcac-4a07-9481-3ccd75e7e607",
+      "employment_type": "FullTime",
+      "team": "Implementations",
+      "published_date": "2025-07-02",
+      "compensation": "$170K – $215K • Offers Equity",
+      "job_id": "3fd985e8",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Abridge"
+    },
+    {
+      "role_name": "Senior Software Engineer (Quality)",
+      "location": "San Francisco-Onsite",
+      "job_link": "https://jobs.ashbyhq.com/abridge/fb77df82-ce6b-4459-b574-dab149aab5dd",
+      "employment_type": "FullTime",
+      "team": "Product Engineering",
+      "published_date": "2025-01-06",
+      "compensation": "$165K – $175K • Offers Equity",
+      "job_id": "aa3ed034",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Abridge"
+    },
+    {
+      "role_name": "Senior Software Engineer, SRE",
+      "location": "San Francisco-Hybrid",
+      "job_link": "https://jobs.ashbyhq.com/abridge/dd85cb94-d1c1-4e37-a26e-4648e9ebc714",
+      "employment_type": "FullTime",
+      "team": "Foundations Engineering",
+      "published_date": "2025-05-21",
+      "compensation": "$162K – $234K",
+      "job_id": "beb0cfad",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Abridge"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 6,
+    "closed_positions_today": 0,
+    "us_positions": 1,
+    "remote_positions": 1
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "company": "Tandem",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "Applied AI Engineer",
+      "location": "New York office",
+      "job_link": "https://jobs.ashbyhq.com/tandem/09564102-1713-4941-bbd5-77eaac9ca88e",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-03-08",
+      "compensation": "",
+      "job_id": "cef12a73",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Tandem"
+    },
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "New York office",
+      "job_link": "https://jobs.ashbyhq.com/tandem/64f5009b-4cf2-4a04-a72e-c19ea8f38947",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-02",
+      "compensation": "",
+      "job_id": "749081f5",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Tandem"
+    },
+    {
+      "role_name": "Machine Learning Engineer",
+      "location": "New York office",
+      "job_link": "https://jobs.ashbyhq.com/tandem/b6e98899-2e6d-4979-a0d6-7cf058ca4815",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-03-08",
+      "compensation": "",
+      "job_id": "810608ed",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Tandem"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

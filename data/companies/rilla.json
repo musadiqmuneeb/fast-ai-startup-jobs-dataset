@@ -1,0 +1,41 @@
+{
+  "company": "Rilla",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 2,
+  "positions": [
+    {
+      "role_name": "AI Engineer",
+      "location": "New York City",
+      "job_link": "https://jobs.ashbyhq.com/rilla/fad15157-b4cc-44ff-92b7-4afd4fe3388e",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-23",
+      "compensation": "",
+      "job_id": "598541e4",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Rilla"
+    },
+    {
+      "role_name": "Forward Deployed Engineer - Integrations",
+      "location": "New York City",
+      "job_link": "https://jobs.ashbyhq.com/rilla/ec768352-6ddb-4d4b-8704-0c04c37fff13",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-04",
+      "compensation": "",
+      "job_id": "357b234a",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Rilla"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 2,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "company": "SendBird",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 1,
+  "positions": [
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "San Mateo, California, United States",
+      "job_link": "https://sendbird.com/careers?gh_jid=8051713002",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-30",
+      "compensation": "Not disclosed",
+      "job_id": "b8cfd71e",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "SendBird"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 1,
+    "closed_positions_today": 0,
+    "us_positions": 1,
+    "remote_positions": 0
+  }
+}

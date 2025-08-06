@@ -1,0 +1,55 @@
+{
+  "company": "Eventual Computing",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "AI Developer Advocate",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/eventualcomputing/239fccdd-4559-47c4-9b23-d63b97392fa6",
+      "employment_type": "FullTime",
+      "team": "Marketing",
+      "published_date": "2025-05-28",
+      "compensation": "$150K – $200K • Offers Equity",
+      "job_id": "c99b6c03",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Eventual Computing"
+    },
+    {
+      "role_name": "Software Engineer, Product",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/eventualcomputing/026f26ca-ad0d-48f0-a79f-ef1c7c5fbfdd",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-25",
+      "compensation": "$150K – $230K • Offers Equity",
+      "job_id": "68bde41c",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Eventual Computing"
+    },
+    {
+      "role_name": "Software Engineer, Systems",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/eventualcomputing/25f15148-8e7b-4a97-873d-df5715aa811a",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-25",
+      "compensation": "$150K – $250K • Offers Equity",
+      "job_id": "c9a3a7ce",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Eventual Computing"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "company": "Horizon3AI",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 5,
+  "positions": [
+    {
+      "role_name": "Lead Backend Software Engineer",
+      "location": "US, Remote",
+      "job_link": "https://jobs.ashbyhq.com/horizon3ai/3eeb3367-49ad-4a79-a590-28aaef5fafc9",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-24",
+      "compensation": "",
+      "job_id": "e92950ab",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Horizon3AI"
+    },
+    {
+      "role_name": "Security Software Engineer",
+      "location": "US, Remote",
+      "job_link": "https://jobs.ashbyhq.com/horizon3ai/e95a125f-2a30-496b-9537-1f3d4a47c1fe",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-11",
+      "compensation": "",
+      "job_id": "e74befad",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Horizon3AI"
+    },
+    {
+      "role_name": "Senior Applied AI Engineer",
+      "location": "US, Remote",
+      "job_link": "https://jobs.ashbyhq.com/horizon3ai/7e3de95c-8249-4427-8ad6-e5da8a08fc91",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-05-23",
+      "compensation": "",
+      "job_id": "0d5bd1b5",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Horizon3AI"
+    },
+    {
+      "role_name": "Sr. Full Stack Engineer",
+      "location": "US, Remote",
+      "job_link": "https://jobs.ashbyhq.com/horizon3ai/b2040619-35f7-41ac-873a-f9f741d42fe0",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-14",
+      "compensation": "",
+      "job_id": "ccb8f3e1",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Horizon3AI"
+    },
+    {
+      "role_name": "Webapp Offensive Security Software Engineer",
+      "location": "US, Remote",
+      "job_link": "https://jobs.ashbyhq.com/horizon3ai/3a664c46-88f2-4367-8aa1-4413d29acd19",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-05-23",
+      "compensation": "",
+      "job_id": "38a725ee",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Horizon3AI"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 5,
+    "closed_positions_today": 0,
+    "us_positions": 5,
+    "remote_positions": 5
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "company": "Arcade",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "Applied AI Engineer",
+      "location": "Presidio, CA",
+      "job_link": "https://jobs.lever.co/Arcade/fdfdd80f-f25e-4b7d-b73e-08c54270cd8a",
+      "employment_type": "Full-Time",
+      "team": "Engineering",
+      "published_date": "2025-07-24",
+      "compensation": "Not disclosed",
+      "job_id": "ffeea453",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Arcade"
+    },
+    {
+      "role_name": "Intern, Software Engineering",
+      "location": "Presidio, CA",
+      "job_link": "https://jobs.lever.co/Arcade/07c31ffc-8333-4819-bde3-e2fd4272ad86",
+      "employment_type": "Full-Time",
+      "team": "Engineering",
+      "published_date": "2025-07-24",
+      "compensation": "Not disclosed",
+      "job_id": "3dcbb35b",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Arcade"
+    },
+    {
+      "role_name": "Software Engineer",
+      "location": "Presidio, CA",
+      "job_link": "https://jobs.lever.co/Arcade/854b1191-d570-4af5-b4c3-1bd399635292",
+      "employment_type": "Full-Time",
+      "team": "Engineering",
+      "published_date": "2025-07-24",
+      "compensation": "Not disclosed",
+      "job_id": "96e62dde",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Arcade"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

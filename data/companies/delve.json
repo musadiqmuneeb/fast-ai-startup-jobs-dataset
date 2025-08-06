@@ -1,0 +1,83 @@
+{
+  "company": "Delve",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 5,
+  "positions": [
+    {
+      "role_name": "Applied AI Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/delve/21e47459-c718-4b96-aadc-d8b1009bb574",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-03",
+      "compensation": "",
+      "job_id": "f69496a8",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Delve"
+    },
+    {
+      "role_name": "Backend Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/delve/e7f099d0-39b5-45f6-9354-e342b65dea67",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-23",
+      "compensation": "",
+      "job_id": "b604b29b",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Delve"
+    },
+    {
+      "role_name": "Frontend Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/delve/dae1bd3a-8d82-4865-9043-f7383ff44f50",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-23",
+      "compensation": "",
+      "job_id": "39fc1263",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Delve"
+    },
+    {
+      "role_name": "Full Stack Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/delve/78e346f7-3669-4059-9b26-3e36b9d31bd3",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-19",
+      "compensation": "",
+      "job_id": "2421745d",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Delve"
+    },
+    {
+      "role_name": "Senior Software Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/delve/32ff5f5a-830f-43d9-beb1-1df8385455e0",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-26",
+      "compensation": "",
+      "job_id": "2b4db68b",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Delve"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 5,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

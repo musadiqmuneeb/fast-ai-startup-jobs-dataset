@@ -1,0 +1,27 @@
+{
+  "company": "Parallel Domain",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 1,
+  "positions": [
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "San Francisco Bay Area",
+      "job_link": "https://jobs.lever.co/paralleldomain/9e6fd3d1-93f8-4732-96ea-0add9d947a36",
+      "employment_type": "FullTime",
+      "team": "Go-To-Market",
+      "published_date": "2025-07-25",
+      "compensation": "Not disclosed",
+      "job_id": "b5af52e4",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Parallel Domain"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 1,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

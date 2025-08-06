@@ -1,0 +1,27 @@
+{
+  "company": "Anterior",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 1,
+  "positions": [
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "New York",
+      "job_link": "https://jobs.ashbyhq.com/anterior/56911f49-274b-4c0a-9f45-2eb48a2ddd35",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-05-31",
+      "compensation": "",
+      "job_id": "aced9cf9",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Anterior"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 1,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

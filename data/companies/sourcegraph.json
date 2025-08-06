@@ -1,0 +1,55 @@
+{
+  "company": "Sourcegraph",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "Forward Deployed Engineer [IC1-IC5]",
+      "location": "San Francisco, CA",
+      "job_link": "https://job-boards.greenhouse.io/sourcegraph91/jobs/5496292004",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-15",
+      "compensation": "Not disclosed",
+      "job_id": "355c81f5",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Sourcegraph"
+    },
+    {
+      "role_name": "Senior Solutions Engineer - East [IC3-IC4] ",
+      "location": "Remote",
+      "job_link": "https://job-boards.greenhouse.io/sourcegraph91/jobs/5595801004",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-22",
+      "compensation": "Not disclosed",
+      "job_id": "c3c5e0de",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Sourcegraph"
+    },
+    {
+      "role_name": "Senior Solutions Engineer - West [IC3-IC4] ",
+      "location": "Denver, CO or San Francisco, CA",
+      "job_link": "https://job-boards.greenhouse.io/sourcegraph91/jobs/5482197004",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-22",
+      "compensation": "Not disclosed",
+      "job_id": "57346822",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Sourcegraph"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 1
+  }
+}

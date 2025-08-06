@@ -1,0 +1,83 @@
+{
+  "company": "Semgrep",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 5,
+  "positions": [
+    {
+      "role_name": "Senior AI Product Engineer",
+      "location": "Remote",
+      "job_link": "https://job-boards.greenhouse.io/semgrep/jobs/4644188007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-05-08",
+      "compensation": "Not disclosed",
+      "job_id": "d54f325f",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Semgrep"
+    },
+    {
+      "role_name": "Senior Software Engineer, Backend Code Team",
+      "location": "San Francisco/New York/Boston/Denver",
+      "job_link": "https://job-boards.greenhouse.io/semgrep/jobs/4662857007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-02-26",
+      "compensation": "Not disclosed",
+      "job_id": "6602e140",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Semgrep"
+    },
+    {
+      "role_name": "Senior Software Engineer, Growth Team",
+      "location": "San Francisco",
+      "job_link": "https://job-boards.greenhouse.io/semgrep/jobs/4680273007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-03-27",
+      "compensation": "Not disclosed",
+      "job_id": "a15dce73",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Semgrep"
+    },
+    {
+      "role_name": "Senior Software Engineer, Infrastructure",
+      "location": "San Francisco/New York/Boston/Denver",
+      "job_link": "https://job-boards.greenhouse.io/semgrep/jobs/4772152007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-06-25",
+      "compensation": "Not disclosed",
+      "job_id": "71284f3d",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Semgrep"
+    },
+    {
+      "role_name": "Staff Software Engineer, Frontend (Rapid Prototyping Leader)",
+      "location": "San Francisco",
+      "job_link": "https://job-boards.greenhouse.io/semgrep/jobs/4671869007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-05-02",
+      "compensation": "Not disclosed",
+      "job_id": "92b0575f",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Semgrep"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 5,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 1
+  }
+}

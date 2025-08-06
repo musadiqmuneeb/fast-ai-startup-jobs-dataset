@@ -1,0 +1,111 @@
+{
+  "company": "Candid Health",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 7,
+  "positions": [
+    {
+      "role_name": "Forward Deployed Software Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/candidhealth/71365073-41fb-40a8-b23a-3e02306770a5",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-05-13",
+      "compensation": "",
+      "job_id": "aecabb7e",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Candid Health"
+    },
+    {
+      "role_name": "Forward Deployed Software Engineer (New Grad)",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-01",
+      "compensation": "",
+      "job_id": "343fb75b",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Candid Health"
+    },
+    {
+      "role_name": "Software Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/candidhealth/f770bdc1-6704-44c6-9417-b98c1a4c75c4",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-03",
+      "compensation": "",
+      "job_id": "73e9f1d2",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Candid Health"
+    },
+    {
+      "role_name": "Software Engineer (New Grad)",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-01",
+      "compensation": "",
+      "job_id": "f11ca07c",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Candid Health"
+    },
+    {
+      "role_name": "Software Engineer (Principal)",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/candidhealth/d921d15b-64a4-4ceb-a634-88d8eb9918ec",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-04-10",
+      "compensation": "",
+      "job_id": "834a36da",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Candid Health"
+    },
+    {
+      "role_name": "Software Engineer, Developer Experience & Tooling ",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/candidhealth/5ef26cfa-b710-4cca-9248-6f8011f840af",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-22",
+      "compensation": "",
+      "job_id": "6b10256b",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Candid Health"
+    },
+    {
+      "role_name": "Software Engineer, Infrastructure (Staff Level)",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/candidhealth/99b79d4c-92cf-415c-b027-d44539396e54",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-30",
+      "compensation": "",
+      "job_id": "00f3e965",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Candid Health"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 7,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

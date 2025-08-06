@@ -1,0 +1,41 @@
+{
+  "company": "Icon",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 2,
+  "positions": [
+    {
+      "role_name": "Founding Engineer",
+      "location": "New York Office",
+      "job_link": "https://jobs.ashbyhq.com/icon/8de569c7-814f-4ffe-9c21-a92d7b806be2",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2024-08-29",
+      "compensation": "",
+      "job_id": "7d43fb52",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Icon"
+    },
+    {
+      "role_name": "Software Engineer Intern (product)",
+      "location": "New York Office",
+      "job_link": "https://jobs.ashbyhq.com/icon/294db022-94f6-49a4-bb64-08dffc5d02a8",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2024-11-28",
+      "compensation": "",
+      "job_id": "580faccb",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Icon"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 2,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

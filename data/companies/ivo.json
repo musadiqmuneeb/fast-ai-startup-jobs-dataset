@@ -1,0 +1,41 @@
+{
+  "company": "Ivo",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 2,
+  "positions": [
+    {
+      "role_name": "Senior Software Engineer",
+      "location": "San Francisco, California",
+      "job_link": "https://jobs.lever.co/ivo/d7471423-8727-4c67-8885-bc4180148577",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-01-27",
+      "compensation": "Not disclosed",
+      "job_id": "134ae316",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Ivo"
+    },
+    {
+      "role_name": "Software Engineer",
+      "location": "San Francisco, California",
+      "job_link": "https://jobs.lever.co/ivo/1629cbb2-c07c-4214-a1e2-b4e96c9cc66c",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-01-27",
+      "compensation": "Not disclosed",
+      "job_id": "915f91ab",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Ivo"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 2,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

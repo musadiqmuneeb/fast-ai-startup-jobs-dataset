@@ -1,0 +1,83 @@
+{
+  "company": "Cursor",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 5,
+  "positions": [
+    {
+      "role_name": "Product Engineer, Enterprise ",
+      "location": "SF / NY",
+      "job_link": "https://jobs.ashbyhq.com/cursor/54a9cfcd-570a-4e9c-b52c-bd2336c60991",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-29",
+      "compensation": "",
+      "job_id": "79dffaf8",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Cursor"
+    },
+    {
+      "role_name": "Software Engineer, Generalist",
+      "location": "SF / NY",
+      "job_link": "https://jobs.ashbyhq.com/cursor/36e69353-0452-4bf6-9f35-b1e7307959a7",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-29",
+      "compensation": "",
+      "job_id": "8613a018",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Cursor"
+    },
+    {
+      "role_name": "Software Engineer, Infrastructure",
+      "location": "SF / NY",
+      "job_link": "https://jobs.ashbyhq.com/cursor/6f92f594-f76c-47eb-8c45-09c6b140b512",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-29",
+      "compensation": "",
+      "job_id": "684dd561",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Cursor"
+    },
+    {
+      "role_name": "Software Engineer, ML Research ",
+      "location": "SF / NY",
+      "job_link": "https://jobs.ashbyhq.com/cursor/0aa0650b-f93c-416e-9e2f-4fdf1556fd14",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-29",
+      "compensation": "",
+      "job_id": "9c81b9b2",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Cursor"
+    },
+    {
+      "role_name": "Software Engineer, Product ",
+      "location": "SF / NY",
+      "job_link": "https://jobs.ashbyhq.com/cursor/3551cdaa-cf08-4c04-adbe-a968185bc769",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-29",
+      "compensation": "",
+      "job_id": "32de6991",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Cursor"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 5,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

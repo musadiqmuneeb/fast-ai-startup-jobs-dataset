@@ -1,0 +1,55 @@
+{
+  "company": "YouCom",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "Senior AI Engineer",
+      "location": "New York (Remote); San Francisco (Remote)",
+      "job_link": "https://job-boards.greenhouse.io/youcom/jobs/4564258008",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-10",
+      "compensation": "Not disclosed",
+      "job_id": "36f5d534",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "YouCom"
+    },
+    {
+      "role_name": "Senior Forward Deployed Engineer",
+      "location": "New York (Remote); San Francisco, CA (Remote)",
+      "job_link": "https://job-boards.greenhouse.io/youcom/jobs/4810111008",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-17",
+      "compensation": "Not disclosed",
+      "job_id": "9b55d321",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "YouCom"
+    },
+    {
+      "role_name": "Staff AI Engineer",
+      "location": "New York (Remote); San Francisco (Remote)",
+      "job_link": "https://job-boards.greenhouse.io/youcom/jobs/4675202008",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-11",
+      "compensation": "Not disclosed",
+      "job_id": "4e24e421",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "YouCom"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 3
+  }
+}

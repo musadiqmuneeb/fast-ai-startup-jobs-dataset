@@ -1,0 +1,83 @@
+{
+  "company": "Labelbox",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 5,
+  "positions": [
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "San Francisco Bay Area",
+      "job_link": "https://job-boards.greenhouse.io/labelbox/jobs/4640927007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-28",
+      "compensation": "Not disclosed",
+      "job_id": "cea58913",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Labelbox"
+    },
+    {
+      "role_name": "Forward Deployed Engineering Manager",
+      "location": "San Francisco Bay Area",
+      "job_link": "https://job-boards.greenhouse.io/labelbox/jobs/4753445007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-28",
+      "compensation": "Not disclosed",
+      "job_id": "e3afe790",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Labelbox"
+    },
+    {
+      "role_name": "Product Engineer, AI Data Platform",
+      "location": "San Francisco Bay Area",
+      "job_link": "https://job-boards.greenhouse.io/labelbox/jobs/4665965007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-17",
+      "compensation": "Not disclosed",
+      "job_id": "22b98edd",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Labelbox"
+    },
+    {
+      "role_name": "Product Engineer, Multimodal AI Editors",
+      "location": "San Francisco Bay Area",
+      "job_link": "https://job-boards.greenhouse.io/labelbox/jobs/4719221007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-17",
+      "compensation": "Not disclosed",
+      "job_id": "00df3d4f",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Labelbox"
+    },
+    {
+      "role_name": "Subject Matter Expert, Software Engineering (Contract)",
+      "location": "Remote, United States",
+      "job_link": "https://job-boards.greenhouse.io/labelbox/jobs/4774101007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-17",
+      "compensation": "Not disclosed",
+      "job_id": "a70cce6f",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Labelbox"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 5,
+    "closed_positions_today": 0,
+    "us_positions": 1,
+    "remote_positions": 1
+  }
+}

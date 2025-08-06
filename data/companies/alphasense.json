@@ -1,0 +1,97 @@
+{
+  "company": "AlphaSense",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 6,
+  "positions": [
+    {
+      "role_name": "Lead Software Engineer - GenAI",
+      "location": "New York, New York, United States",
+      "job_link": "https://job-boards.greenhouse.io/alphasense/jobs/7922499002",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-30",
+      "compensation": "Not disclosed",
+      "job_id": "479cd7fc",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "AlphaSense"
+    },
+    {
+      "role_name": "Senior AI Engineer",
+      "location": "New York, New York, United States",
+      "job_link": "https://job-boards.greenhouse.io/alphasense/jobs/7756999002",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-30",
+      "compensation": "Not disclosed",
+      "job_id": "a9ff08d7",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "AlphaSense"
+    },
+    {
+      "role_name": "Senior AI Engineer - Expert Research",
+      "location": "Remote - United States",
+      "job_link": "https://job-boards.greenhouse.io/alphasense/jobs/8066533002",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-30",
+      "compensation": "Not disclosed",
+      "job_id": "0655979e",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "AlphaSense"
+    },
+    {
+      "role_name": "Senior Software Engineer",
+      "location": "Remote - United States",
+      "job_link": "https://job-boards.greenhouse.io/alphasense/jobs/7930108002",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-09",
+      "compensation": "Not disclosed",
+      "job_id": "6d1e5205",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "AlphaSense"
+    },
+    {
+      "role_name": "Staff Generative AI Engineer",
+      "location": "New York, New York, United States",
+      "job_link": "https://job-boards.greenhouse.io/alphasense/jobs/7922485002",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-30",
+      "compensation": "Not disclosed",
+      "job_id": "d9418e06",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "AlphaSense"
+    },
+    {
+      "role_name": "Staff Software Engineer - Reference & Entity Data",
+      "location": "Remote - United States",
+      "job_link": "https://job-boards.greenhouse.io/alphasense/jobs/8049576002",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-31",
+      "compensation": "Not disclosed",
+      "job_id": "cc2750e6",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "AlphaSense"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 6,
+    "closed_positions_today": 0,
+    "us_positions": 6,
+    "remote_positions": 3
+  }
+}

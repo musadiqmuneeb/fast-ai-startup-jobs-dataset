@@ -1,0 +1,41 @@
+{
+  "company": "DevRev",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 2,
+  "positions": [
+    {
+      "role_name": "Forward Deployed Architect",
+      "location": "Remote - USA",
+      "job_link": "https://job-boards.greenhouse.io/devrev/jobs/5528192004",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-25",
+      "compensation": "Not disclosed",
+      "job_id": "6562b073",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "DevRev"
+    },
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "Remote - USA",
+      "job_link": "https://job-boards.greenhouse.io/devrev/jobs/5554325004",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-25",
+      "compensation": "Not disclosed",
+      "job_id": "44f1a176",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "DevRev"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 2,
+    "closed_positions_today": 0,
+    "us_positions": 2,
+    "remote_positions": 2
+  }
+}

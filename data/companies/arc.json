@@ -1,0 +1,41 @@
+{
+  "company": "Arc",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 2,
+  "positions": [
+    {
+      "role_name": "Software Engineer, Fullstack",
+      "location": "NYC",
+      "job_link": "https://jobs.ashbyhq.com/joinarc/7a975960-40f5-4ae4-b96b-6d9046dc2d1d",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-29",
+      "compensation": "$135K – $190K • Offers Equity",
+      "job_id": "de75fe79",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Arc"
+    },
+    {
+      "role_name": "Tech Lead, Frontend Engineering - AI Product",
+      "location": "SF Bay Area",
+      "job_link": "https://jobs.ashbyhq.com/joinarc/208cf5a4-8525-46a7-899f-991212cd4ba3",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-31",
+      "compensation": "",
+      "job_id": "8f0f1d81",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Arc"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 2,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

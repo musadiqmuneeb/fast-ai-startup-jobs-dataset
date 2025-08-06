@@ -1,0 +1,55 @@
+{
+  "company": "Casca",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "Founding Technical Account Manager",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/casca/655038d8-2a54-4d7e-92a6-3a172bc99e1a",
+      "employment_type": "FullTime",
+      "team": "Sales",
+      "published_date": "2025-08-01",
+      "compensation": "$125K – $160K • Offers Equity",
+      "job_id": "66b0ced4",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Casca"
+    },
+    {
+      "role_name": "Senior AI Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/casca/cb3ba9e1-3d4a-4207-a6a2-f7ac88c8b18d",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-10",
+      "compensation": "$180K – $250K • Offers Equity",
+      "job_id": "d1b85805",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Casca"
+    },
+    {
+      "role_name": "Senior Forward Deployed Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/casca/577560f5-e509-4ffe-9ff0-cbf71b64e954",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-10",
+      "compensation": "$180K – $250K • Offers Equity",
+      "job_id": "25779e8f",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Casca"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

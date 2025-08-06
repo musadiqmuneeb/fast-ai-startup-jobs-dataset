@@ -1,0 +1,55 @@
+{
+  "company": "Salient",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "Applied AI Engineer",
+      "location": "SF Headquarters",
+      "job_link": "https://jobs.ashbyhq.com/salient/5bef27e7-17b3-4ad0-93e0-9e430409acd4",
+      "employment_type": "FullTime",
+      "team": "Applied AI",
+      "published_date": "2025-03-25",
+      "compensation": "$180K – $270K • Offers Equity",
+      "job_id": "af26fc9b",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Salient"
+    },
+    {
+      "role_name": "Forward Deployed Software Engineer",
+      "location": "SF Headquarters",
+      "job_link": "https://jobs.ashbyhq.com/salient/a213eea8-ef18-40cb-b693-67ca3900c7fb",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-05-12",
+      "compensation": "$120K – $300K • Offers Equity",
+      "job_id": "a42da327",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Salient"
+    },
+    {
+      "role_name": "Software Engineer - Core Product",
+      "location": "SF Headquarters",
+      "job_link": "https://jobs.ashbyhq.com/salient/03ec52e9-746f-45e0-8cb5-0fdf057e4ed3",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-04-10",
+      "compensation": "$180K – $250K • Offers Equity",
+      "job_id": "9bbaf5a9",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Salient"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

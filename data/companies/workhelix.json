@@ -1,0 +1,41 @@
+{
+  "company": "WorkHelix",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 2,
+  "positions": [
+    {
+      "role_name": "Forward-Deployed Software Engineer",
+      "location": "Greater San Francisco Area",
+      "job_link": "https://job-boards.greenhouse.io/workhelix/jobs/4605127008",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-03-27",
+      "compensation": "Not disclosed",
+      "job_id": "4de72f70",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "WorkHelix"
+    },
+    {
+      "role_name": "Software Engineering Lead",
+      "location": "Greater San Francisco Area",
+      "job_link": "https://job-boards.greenhouse.io/workhelix/jobs/4672509008",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-05-05",
+      "compensation": "Not disclosed",
+      "job_id": "3fe929d5",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "WorkHelix"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 2,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

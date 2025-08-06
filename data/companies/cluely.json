@@ -1,0 +1,27 @@
+{
+  "company": "Cluely",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 1,
+  "positions": [
+    {
+      "role_name": "Founding Engineer",
+      "location": "San Francisco ",
+      "job_link": "https://jobs.ashbyhq.com/cluely/9ed623a7-fc2d-4afc-ab88-a01af977cb9f",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-04-28",
+      "compensation": "$300K – $1M • 0.25% – 1%",
+      "job_id": "40d5cc8e",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Cluely"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 1,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

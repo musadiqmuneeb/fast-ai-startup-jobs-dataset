@@ -1,0 +1,55 @@
+{
+  "company": "Snorkel AI",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "Staff Applied AI Engineer",
+      "location": "Redwood City, CA (Hybrid); San Francisco, CA (Hybrid)",
+      "job_link": "https://job-boards.greenhouse.io/snorkelai/jobs/5503420004",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-30",
+      "compensation": "Not disclosed",
+      "job_id": "cda9fe90",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Snorkel AI"
+    },
+    {
+      "role_name": "Staff Software Engineer  — AI Platform",
+      "location": "Redwood City, CA (Hybrid); San Francisco, CA (Hybrid)",
+      "job_link": "https://job-boards.greenhouse.io/snorkelai/jobs/5424527004",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-03",
+      "compensation": "Not disclosed",
+      "job_id": "f7c6d476",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Snorkel AI"
+    },
+    {
+      "role_name": "Staff Software Engineer — Full Stack",
+      "location": "Redwood City, CA (Hybrid); San Francisco, CA (Hybrid)",
+      "job_link": "https://job-boards.greenhouse.io/snorkelai/jobs/5436016004",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-06-13",
+      "compensation": "Not disclosed",
+      "job_id": "9dd31863",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Snorkel AI"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

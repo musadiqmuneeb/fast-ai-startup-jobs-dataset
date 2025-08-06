@@ -1,0 +1,83 @@
+{
+  "company": "Chalk",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 5,
+  "positions": [
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "NY or SF",
+      "job_link": "https://job-boards.greenhouse.io/chalkinc/jobs/4114234005",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-17",
+      "compensation": "Not disclosed",
+      "job_id": "f0746d5d",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Chalk"
+    },
+    {
+      "role_name": "Frontend Software Engineer",
+      "location": "SF",
+      "job_link": "https://job-boards.greenhouse.io/chalkinc/jobs/4566828005",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-02",
+      "compensation": "Not disclosed",
+      "job_id": "8c19e59c",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Chalk"
+    },
+    {
+      "role_name": "Full Stack Software Engineer",
+      "location": "NY or SF",
+      "job_link": "https://job-boards.greenhouse.io/chalkinc/jobs/4032173005",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-02",
+      "compensation": "Not disclosed",
+      "job_id": "8a1a5d6e",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Chalk"
+    },
+    {
+      "role_name": "Software Engineer",
+      "location": "NY or SF",
+      "job_link": "https://job-boards.greenhouse.io/chalkinc/jobs/4031707005",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-17",
+      "compensation": "Not disclosed",
+      "job_id": "59b9b8eb",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Chalk"
+    },
+    {
+      "role_name": "Software Engineer / Engineering Manager",
+      "location": "NY or SF",
+      "job_link": "https://job-boards.greenhouse.io/chalkinc/jobs/4554344005",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-02",
+      "compensation": "Not disclosed",
+      "job_id": "10114bdc",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Chalk"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 5,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

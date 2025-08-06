@@ -1,0 +1,55 @@
+{
+  "company": "Extend",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "Applied AI Engineer",
+      "location": "New York City",
+      "job_link": "https://jobs.ashbyhq.com/extend/401bbcd4-4d3f-4e96-b68a-62e8ea98a73d",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2024-12-15",
+      "compensation": "$200K – $400K • Offers Equity",
+      "job_id": "dc75397e",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Extend"
+    },
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "New York City",
+      "job_link": "https://jobs.ashbyhq.com/extend/a28fb488-7c82-4bb5-8876-c20e209d2ac5",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2024-12-15",
+      "compensation": "$175K – $250K • Offers Equity",
+      "job_id": "25c989c2",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Extend"
+    },
+    {
+      "role_name": "Staff Software Engineer",
+      "location": "New York City",
+      "job_link": "https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2024-12-15",
+      "compensation": "$250K – $400K • Offers Equity",
+      "job_id": "928cf788",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Extend"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

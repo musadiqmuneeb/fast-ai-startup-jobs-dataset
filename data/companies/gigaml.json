@@ -1,0 +1,55 @@
+{
+  "company": "GigaML",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/GigaML/0bd3cb15-811f-4a6b-ac12-781f24735a86",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-03",
+      "compensation": "$150K – $250K • Offers Equity",
+      "job_id": "b19929f1",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "GigaML"
+    },
+    {
+      "role_name": "Senior Software Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/GigaML/1e2710f9-7004-4592-8c06-00be79633617",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-05-15",
+      "compensation": "$200K – $350K • Offers Equity",
+      "job_id": "8a3dd82e",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "GigaML"
+    },
+    {
+      "role_name": "Software Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/GigaML/96f0c2f8-3d97-4763-ab46-b6af6ad8b2e7",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-05-14",
+      "compensation": "$150K – $250K • Offers Equity",
+      "job_id": "30f414ef",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "GigaML"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

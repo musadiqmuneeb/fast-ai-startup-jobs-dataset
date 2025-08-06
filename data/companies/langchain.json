@@ -1,0 +1,97 @@
+{
+  "company": "LangChain",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 6,
+  "positions": [
+    {
+      "role_name": "Backend Engineer (LangGraph Platform)",
+      "location": "San Francisco, CA",
+      "job_link": "https://jobs.ashbyhq.com/langchain/f63577d2-6036-4952-9ac5-1236ccd16d3e",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-03",
+      "compensation": "",
+      "job_id": "09cdb8a0",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "LangChain"
+    },
+    {
+      "role_name": "Frontend Engineer",
+      "location": "San Francisco, CA",
+      "job_link": "https://jobs.ashbyhq.com/langchain/afb91b9b-46d5-4c9d-aa84-a4f1a3f74263",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-09",
+      "compensation": "",
+      "job_id": "219fdc83",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "LangChain"
+    },
+    {
+      "role_name": "Full Stack Engineer - Growth & Enterprise Engineering",
+      "location": "New York, NY",
+      "job_link": "https://jobs.ashbyhq.com/langchain/7ac5bdc8-3ceb-4544-826c-5db35391436d",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-01",
+      "compensation": "",
+      "job_id": "398c4893",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "LangChain"
+    },
+    {
+      "role_name": "Senior Backend Engineer (Growth Engineering)",
+      "location": "New York, NY",
+      "job_link": "https://jobs.ashbyhq.com/langchain/4d4deac5-b970-4d91-8f51-b0dcae5146ae",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-24",
+      "compensation": "",
+      "job_id": "49612597",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "LangChain"
+    },
+    {
+      "role_name": "Senior Full Stack Engineer (LangSmith)",
+      "location": "San Francisco, CA",
+      "job_link": "https://jobs.ashbyhq.com/langchain/a03b3e54-495d-4960-aee7-0194a3cef57d",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-02-19",
+      "compensation": "",
+      "job_id": "7046a6be",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "LangChain"
+    },
+    {
+      "role_name": "Sr Customer Engineer",
+      "location": "United States",
+      "job_link": "https://jobs.ashbyhq.com/langchain/541d5ca5-bfe5-4ffd-9ce7-6d26df934042",
+      "employment_type": "FullTime",
+      "team": "GTM",
+      "published_date": "2025-07-25",
+      "compensation": "",
+      "job_id": "24e252f7",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "LangChain"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 6,
+    "closed_positions_today": 0,
+    "us_positions": 1,
+    "remote_positions": 0
+  }
+}

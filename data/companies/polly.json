@@ -1,0 +1,27 @@
+{
+  "company": "Polly",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 1,
+  "positions": [
+    {
+      "role_name": "Staff Software Engineer- Full Stack, AI Team",
+      "location": "Remote, USA",
+      "job_link": "https://jobs.lever.co/pollyex/0edbc44a-7500-4664-bb79-fa5fa281fe13",
+      "employment_type": "Full-time",
+      "team": "Technology",
+      "published_date": "2024-08-27",
+      "compensation": "Not disclosed",
+      "job_id": "67afc3b7",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Polly"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 1,
+    "closed_positions_today": 0,
+    "us_positions": 1,
+    "remote_positions": 1
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "company": "Crogl",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "United States",
+      "job_link": "https://jobs.ashbyhq.com/crogl/e4130c5b-0610-4fd7-a1a5-a93db75efa9b",
+      "employment_type": "FullTime",
+      "team": "GTM",
+      "published_date": "2025-05-15",
+      "compensation": "",
+      "job_id": "ed45e165",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Crogl"
+    },
+    {
+      "role_name": "Forward Deployed Engineer - US Gov",
+      "location": "United States",
+      "job_link": "https://jobs.ashbyhq.com/crogl/fe6f50bb-068f-4c50-941a-8fe51628a607",
+      "employment_type": "FullTime",
+      "team": "GTM",
+      "published_date": "2025-07-08",
+      "compensation": "",
+      "job_id": "4abf42b7",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Crogl"
+    },
+    {
+      "role_name": "Sr. Software Engineer",
+      "location": "United States",
+      "job_link": "https://jobs.ashbyhq.com/crogl/9ea48b7b-bf3c-4eae-9338-524f71ef5b0b",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-09",
+      "compensation": "",
+      "job_id": "b573c74d",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Crogl"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 3,
+    "remote_positions": 0
+  }
+}

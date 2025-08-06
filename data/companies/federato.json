@@ -1,0 +1,41 @@
+{
+  "company": "Federato",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 2,
+  "positions": [
+    {
+      "role_name": "Senior Machine Learning Engineer",
+      "location": "Remote",
+      "job_link": "https://job-boards.greenhouse.io/federato/jobs/4545689008",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-18",
+      "compensation": "Not disclosed",
+      "job_id": "9951f2aa",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Federato"
+    },
+    {
+      "role_name": "Senior Software Engineer",
+      "location": "Remote",
+      "job_link": "https://job-boards.greenhouse.io/federato/jobs/4575974008",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-28",
+      "compensation": "Not disclosed",
+      "job_id": "468e5128",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Federato"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 2,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 2
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "company": "Datology AI",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 2,
+  "positions": [
+    {
+      "role_name": "Software Engineer, Data Infrastructure",
+      "location": "Redwood City",
+      "job_link": "https://jobs.ashbyhq.com/datologyai/7a64144a-c612-4af8-bdf8-cdfff03240cc",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-03-20",
+      "compensation": "",
+      "job_id": "5337d51e",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Datology AI"
+    },
+    {
+      "role_name": "Software Engineer, Infrastructure",
+      "location": "Redwood City",
+      "job_link": "https://jobs.ashbyhq.com/datologyai/a61a442c-e640-4542-be68-984f99369ec5",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-03-20",
+      "compensation": "",
+      "job_id": "06485af2",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Datology AI"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 2,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

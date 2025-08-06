@@ -1,0 +1,83 @@
+{
+  "company": "Toma",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 5,
+  "positions": [
+    {
+      "role_name": "Software Engineer (Forward-Deployed)",
+      "location": "San Francisco, CA",
+      "job_link": "https://jobs.ashbyhq.com/toma/567ddd27-6d24-4c39-8cb8-5c204d0758e7",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-16",
+      "compensation": "",
+      "job_id": "2f580c36",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Toma"
+    },
+    {
+      "role_name": "Software Engineer (Platform)",
+      "location": "San Francisco, CA",
+      "job_link": "https://jobs.ashbyhq.com/toma/6a1db440-d2a4-4fb1-85ae-08fce1e7f7c7",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-08-01",
+      "compensation": "",
+      "job_id": "98d606e1",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Toma"
+    },
+    {
+      "role_name": "Software Engineer (Product)",
+      "location": "Potrero Hill, San Francisco, CA",
+      "job_link": "https://jobs.ashbyhq.com/toma/2f7f235d-0afc-44b1-9ffb-171d872ce836",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-08-01",
+      "compensation": "",
+      "job_id": "229c7199",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Toma"
+    },
+    {
+      "role_name": "Staff Software Engineer (Platform)",
+      "location": "San Francisco, CA",
+      "job_link": "https://jobs.ashbyhq.com/toma/6a2f4fcc-8f98-41e8-b501-ce8bada395e4",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-15",
+      "compensation": "",
+      "job_id": "8233a678",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Toma"
+    },
+    {
+      "role_name": "Staff Software Engineer (Product)",
+      "location": "San Francisco, CA",
+      "job_link": "https://jobs.ashbyhq.com/toma/66993c63-967b-40f1-8d7d-0e004e6a3027",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-15",
+      "compensation": "",
+      "job_id": "cdeb9385",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Toma"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 5,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

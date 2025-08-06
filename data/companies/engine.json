@@ -1,0 +1,41 @@
+{
+  "company": "Engine",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 2,
+  "positions": [
+    {
+      "role_name": "Principal Software Engineer",
+      "location": "Remote - USA",
+      "job_link": "https://job-boards.greenhouse.io/engine/jobs/6031640003",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-01",
+      "compensation": "Not disclosed",
+      "job_id": "661da725",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Engine"
+    },
+    {
+      "role_name": "Staff Software Engineer, Feature",
+      "location": "Remote - USA",
+      "job_link": "https://job-boards.greenhouse.io/engine/jobs/5933729003",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-08",
+      "compensation": "Not disclosed",
+      "job_id": "dffb0322",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Engine"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 2,
+    "closed_positions_today": 0,
+    "us_positions": 2,
+    "remote_positions": 2
+  }
+}

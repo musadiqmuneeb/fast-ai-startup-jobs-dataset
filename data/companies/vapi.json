@@ -1,0 +1,55 @@
+{
+  "company": "Vapi",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": " Staff Backend Engineer ",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/vapi/d270d613-30b8-4fdc-96e0-514993ca7a82",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-29",
+      "compensation": "$150K – $265K • Offers Equity",
+      "job_id": "667b2d43",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Vapi"
+    },
+    {
+      "role_name": "GTM Solutions Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/vapi/d6391f5d-7d12-495a-a209-2695ee69e081",
+      "employment_type": "FullTime",
+      "team": "Go-to-Market",
+      "published_date": "2025-07-29",
+      "compensation": "$160K – $200K • Offers Equity",
+      "job_id": "cf0ee914",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Vapi"
+    },
+    {
+      "role_name": "Product Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/vapi/ad7d62f7-6051-4625-89d0-efae98c863ee",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-29",
+      "compensation": "$150K – $265K • Offers Equity",
+      "job_id": "ed9d5ca3",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Vapi"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

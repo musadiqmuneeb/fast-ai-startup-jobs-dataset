@@ -1,0 +1,83 @@
+{
+  "company": "Miro",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 5,
+  "positions": [
+    {
+      "role_name": "Scaled Solution Engineer (German-speaking)",
+      "location": "Munich, DE",
+      "job_link": "https://miro.com/careers/vacancy/7925054002?gh_jid=7925054002",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-06-26",
+      "compensation": "Not disclosed",
+      "job_id": "2bd40900",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Miro"
+    },
+    {
+      "role_name": "Senior Solutions Engineer",
+      "location": "San Francisco, US",
+      "job_link": "https://miro.com/careers/vacancy/8032733002?gh_jid=8032733002",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-06-16",
+      "compensation": "Not disclosed",
+      "job_id": "d9b2b272",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Miro"
+    },
+    {
+      "role_name": "Senior Solutions Engineer (German-speaking)",
+      "location": "Munich, DE",
+      "job_link": "https://miro.com/careers/vacancy/8031741002?gh_jid=8031741002",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-08-01",
+      "compensation": "Not disclosed",
+      "job_id": "95317029",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Miro"
+    },
+    {
+      "role_name": "Solution Engineer DACH (German-speaking)",
+      "location": "Munich, DE",
+      "job_link": "https://miro.com/careers/vacancy/7822465002?gh_jid=7822465002",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-06-26",
+      "compensation": "Not disclosed",
+      "job_id": "9b531510",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Miro"
+    },
+    {
+      "role_name": "Technical Account Manager",
+      "location": "Munich, DE",
+      "job_link": "https://miro.com/careers/vacancy/8087076002?gh_jid=8087076002",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-26",
+      "compensation": "Not disclosed",
+      "job_id": "64ba91cb",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Miro"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 5,
+    "closed_positions_today": 0,
+    "us_positions": 1,
+    "remote_positions": 0
+  }
+}

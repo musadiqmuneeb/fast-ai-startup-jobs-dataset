@@ -1,0 +1,69 @@
+{
+  "company": "Foundry Technologies",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 4,
+  "positions": [
+    {
+      "role_name": "AI Solutions Engineer",
+      "location": "Palo Alto / San Francisco Bay Area",
+      "job_link": "https://job-boards.greenhouse.io/foundrytechnologiesinc/jobs/4521906007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-04-17",
+      "compensation": "Not disclosed",
+      "job_id": "1652250a",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Foundry Technologies"
+    },
+    {
+      "role_name": "Senior Product Engineer, Marketplace",
+      "location": "Palo Alto / San Francisco Bay Area",
+      "job_link": "https://job-boards.greenhouse.io/foundrytechnologiesinc/jobs/4604609007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-02-20",
+      "compensation": "Not disclosed",
+      "job_id": "152a7ce4",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Foundry Technologies"
+    },
+    {
+      "role_name": "Senior Software Engineer",
+      "location": "Palo Alto / San Francisco Bay Area",
+      "job_link": "https://job-boards.greenhouse.io/foundrytechnologiesinc/jobs/4199826007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-02-20",
+      "compensation": "Not disclosed",
+      "job_id": "74653e3c",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Foundry Technologies"
+    },
+    {
+      "role_name": "Senior Software Engineer, Full Stack",
+      "location": "Palo Alto / San Francisco Bay Area",
+      "job_link": "https://job-boards.greenhouse.io/foundrytechnologiesinc/jobs/4419565007",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-02-20",
+      "compensation": "Not disclosed",
+      "job_id": "f5bbd4a4",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Foundry Technologies"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 4,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

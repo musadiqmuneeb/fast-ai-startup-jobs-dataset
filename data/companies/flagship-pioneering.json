@@ -1,0 +1,69 @@
+{
+  "company": "Flagship Pioneering",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 4,
+  "positions": [
+    {
+      "role_name": "(Senior) Machine Learning Engineer, Biomolecule Design",
+      "location": "Cambridge, MA USA",
+      "job_link": "https://boards.greenhouse.io/flagshippioneeringinc/jobs/7617889002?gh_jid=7617889002",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-17",
+      "compensation": "Not disclosed",
+      "job_id": "362de9fe",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Flagship Pioneering"
+    },
+    {
+      "role_name": "Forward Deployed Engineer (Level Flexible) ",
+      "location": "Cambridge, MA USA",
+      "job_link": "https://boards.greenhouse.io/flagshippioneeringinc/jobs/8067750002?gh_jid=8067750002",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-17",
+      "compensation": "Not disclosed",
+      "job_id": "35ffaf2f",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Flagship Pioneering"
+    },
+    {
+      "role_name": "Senior Infrastructure Software Engineer",
+      "location": "Cambridge, MA USA",
+      "job_link": "https://boards.greenhouse.io/flagshippioneeringinc/jobs/8076685002?gh_jid=8076685002",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-25",
+      "compensation": "Not disclosed",
+      "job_id": "bb3e6957",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Flagship Pioneering"
+    },
+    {
+      "role_name": "Software Engineer, Platform - Open Level",
+      "location": "Cambridge, MA USA",
+      "job_link": "https://boards.greenhouse.io/flagshippioneeringinc/jobs/7857532002?gh_jid=7857532002",
+      "employment_type": "FullTime",
+      "team": "",
+      "published_date": "2025-07-25",
+      "compensation": "Not disclosed",
+      "job_id": "8ef56796",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Flagship Pioneering"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 4,
+    "closed_positions_today": 0,
+    "us_positions": 4,
+    "remote_positions": 0
+  }
+}

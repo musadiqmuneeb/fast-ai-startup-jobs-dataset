@@ -1,0 +1,55 @@
+{
+  "company": "SuperDial",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 3,
+  "positions": [
+    {
+      "role_name": "Lead Forward Deployed Engineer",
+      "location": "San Mateo, CA",
+      "job_link": "https://jobs.ashbyhq.com/superdial/aea898d4-26d3-42a6-8f96-8b09ab6cf806",
+      "employment_type": "FullTime",
+      "team": "Technology",
+      "published_date": "2025-04-16",
+      "compensation": "",
+      "job_id": "ea028ce7",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "SuperDial"
+    },
+    {
+      "role_name": "Staff Machine Learning Engineer",
+      "location": "San Mateo, CA",
+      "job_link": "https://jobs.ashbyhq.com/superdial/ac804879-1ede-41c6-9f2e-657d2427c529",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-03-16",
+      "compensation": "",
+      "job_id": "6e6189a6",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "SuperDial"
+    },
+    {
+      "role_name": "Staff Software Engineer",
+      "location": "San Mateo, CA",
+      "job_link": "https://jobs.ashbyhq.com/superdial/c4957155-2ddc-46b1-9a69-265c44177dcb",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-03-16",
+      "compensation": "",
+      "job_id": "25c708e2",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "SuperDial"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 3,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

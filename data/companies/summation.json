@@ -1,0 +1,41 @@
+{
+  "company": "Summation",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 2,
+  "positions": [
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "Bellevue, WA",
+      "job_link": "https://jobs.ashbyhq.com/summation/61622b7e-0c6a-4b52-9100-53ed90e0b80a",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-03-10",
+      "compensation": "",
+      "job_id": "601c7fd6",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Summation"
+    },
+    {
+      "role_name": "Senior Product Engineer",
+      "location": "Bellevue, WA",
+      "job_link": "https://jobs.ashbyhq.com/summation/0d361e4c-03d2-416e-a82c-245871be4c9c",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2024-11-22",
+      "compensation": "",
+      "job_id": "cab25f09",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Summation"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 2,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

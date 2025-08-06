@@ -1,0 +1,69 @@
+{
+  "company": "Stainless API",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 4,
+  "positions": [
+    {
+      "role_name": "Product Engineer",
+      "location": "New York Office",
+      "job_link": "https://jobs.ashbyhq.com/stainlessapi/f4ace98b-a683-49a1-a1d9-0dd8f2d0d541",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2024-12-01",
+      "compensation": "$150K – $260K • Offers Equity • Multiple Ranges",
+      "job_id": "bb38b4cb",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Stainless API"
+    },
+    {
+      "role_name": "Product Engineer, San Francisco office",
+      "location": "San Francisco Office",
+      "job_link": "https://jobs.ashbyhq.com/stainlessapi/924a892a-9091-485d-bdc0-c853ab400670",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-03-28",
+      "compensation": "$150K – $220K • Offers Equity • Multiple Ranges",
+      "job_id": "00d35de4",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Stainless API"
+    },
+    {
+      "role_name": "Software Engineer, Applied AI",
+      "location": "New York Office",
+      "job_link": "https://jobs.ashbyhq.com/stainlessapi/a897e9d6-299c-42fa-b2eb-2d92fa23ca83",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-03-03",
+      "compensation": "$150K – $260K • Offers Equity • Multiple Ranges",
+      "job_id": "ac88e434",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Stainless API"
+    },
+    {
+      "role_name": "Software Engineer, Generalist",
+      "location": "New York Office",
+      "job_link": "https://jobs.ashbyhq.com/stainlessapi/41c56e31-5515-48d7-a872-e775ee5c682e",
+      "employment_type": "FullTime",
+      "team": "SDK team",
+      "published_date": "2024-12-01",
+      "compensation": "$150K – $260K • Offers Equity • Multiple Ranges",
+      "job_id": "75969f9d",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Stainless API"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 4,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "company": "Gecko Robotics",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 7,
+  "positions": [
+    {
+      "role_name": "Forward Deployed Software Engineer",
+      "location": "New York City",
+      "job_link": "https://jobs.ashbyhq.com/gecko-robotics/1ae83c3f-565a-48c9-85f7-55ab1c75593d",
+      "employment_type": "FullTime",
+      "team": "Forward Deployed Engineering",
+      "published_date": "2025-06-13",
+      "compensation": "",
+      "job_id": "e08de859",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Gecko Robotics"
+    },
+    {
+      "role_name": "Forward Deployed Software Engineer | Team Lead, Government",
+      "location": "Washington, D.C.",
+      "job_link": "https://jobs.ashbyhq.com/gecko-robotics/23a1c7a7-27c7-4eb0-a2e3-8bb84f63db49",
+      "employment_type": "FullTime",
+      "team": "Forward Deployed Engineering",
+      "published_date": "2025-05-07",
+      "compensation": "",
+      "job_id": "97e488f7",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Gecko Robotics"
+    },
+    {
+      "role_name": "Machine Learning Engineer ",
+      "location": "Boston",
+      "job_link": "https://jobs.ashbyhq.com/gecko-robotics/de835079-df5a-43b6-b5f2-102581c6a48e",
+      "employment_type": "FullTime",
+      "team": "Software Engineering",
+      "published_date": "2025-06-03",
+      "compensation": "",
+      "job_id": "d2182f18",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Gecko Robotics"
+    },
+    {
+      "role_name": "Senior Embedded Software Engineer ",
+      "location": "Pittsburgh",
+      "job_link": "https://jobs.ashbyhq.com/gecko-robotics/e1b9ce89-62be-49c1-b9d2-369081ad811a",
+      "employment_type": "FullTime",
+      "team": "Hardware Engineering ",
+      "published_date": "2025-06-20",
+      "compensation": "",
+      "job_id": "a0f44071",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Gecko Robotics"
+    },
+    {
+      "role_name": "Software Engineer | Data Visualization",
+      "location": "Boston",
+      "job_link": "https://jobs.ashbyhq.com/gecko-robotics/8d5c5930-a4fe-44e5-96a3-f74e3e33736f",
+      "employment_type": "FullTime",
+      "team": "Software Engineering",
+      "published_date": "2025-02-03",
+      "compensation": "",
+      "job_id": "3d3c898a",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Gecko Robotics"
+    },
+    {
+      "role_name": "Software Engineer | DevOps ",
+      "location": "New York City",
+      "job_link": "https://jobs.ashbyhq.com/gecko-robotics/7b103244-cf45-42e8-aada-cb1ba5ee64db",
+      "employment_type": "FullTime",
+      "team": "Software Engineering",
+      "published_date": "2025-06-24",
+      "compensation": "",
+      "job_id": "a7072e33",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Gecko Robotics"
+    },
+    {
+      "role_name": "Software Engineer | Full Stack",
+      "location": "New York City",
+      "job_link": "https://jobs.ashbyhq.com/gecko-robotics/f420a38c-0df0-446b-ba1e-7a1170405b7d",
+      "employment_type": "FullTime",
+      "team": "Software Engineering",
+      "published_date": "2025-01-27",
+      "compensation": "",
+      "job_id": "e66e0b1e",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Gecko Robotics"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 7,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

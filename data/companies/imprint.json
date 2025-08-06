@@ -1,0 +1,69 @@
+{
+  "company": "Imprint",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 4,
+  "positions": [
+    {
+      "role_name": "Full Stack Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/imprint/9cfe627c-3e06-4eb9-817d-2ca2893fc057",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-04",
+      "compensation": "$140K – $180K • Offers Equity",
+      "job_id": "58445ab3",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Imprint"
+    },
+    {
+      "role_name": "Senior Software Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/imprint/9d9a0461-77ed-4831-b241-928f37577bbd",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-04",
+      "compensation": "$170K – $220K • Offers Equity",
+      "job_id": "9c34259f",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Imprint"
+    },
+    {
+      "role_name": "Senior Software Engineer, AI",
+      "location": "New York, San Francisco, or Seattle (Hybrid)",
+      "job_link": "https://jobs.ashbyhq.com/imprint/2c83c162-40d4-4b27-91e5-a1a2e81262ab",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-07-30",
+      "compensation": "$170K – $220K • Offers Equity",
+      "job_id": "ee09e029",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Imprint"
+    },
+    {
+      "role_name": "Software Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/imprint/aa62eddf-aa61-4d6c-93ca-b615cf00ca45",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-04",
+      "compensation": "$140K – $180K • Offers Equity",
+      "job_id": "63157e9a",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Imprint"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 4,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

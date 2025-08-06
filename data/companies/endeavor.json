@@ -1,0 +1,41 @@
+{
+  "company": "Endeavor",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 2,
+  "positions": [
+    {
+      "role_name": "Forward Deployed Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/endeavor/958f3769-f706-44d4-ac4a-424146b35d70",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-04-11",
+      "compensation": "",
+      "job_id": "254b44e1",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Endeavor"
+    },
+    {
+      "role_name": "Senior Backend Software Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/endeavor/eb8b2ef9-544c-4793-96f9-c7b626fea5f8",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-05-06",
+      "compensation": "",
+      "job_id": "f98126ce",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Endeavor"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 2,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}

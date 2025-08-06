@@ -1,0 +1,69 @@
+{
+  "company": "Bland",
+  "last_updated": "2025-08-05T22:44:52.651893Z",
+  "total_positions": 4,
+  "positions": [
+    {
+      "role_name": "AI Deployment Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/bland/70588f70-3d2a-4a3b-9daa-1b8495eda386",
+      "employment_type": "FullTime",
+      "team": "Customer Success",
+      "published_date": "2025-07-16",
+      "compensation": "",
+      "job_id": "55470b57",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Bland"
+    },
+    {
+      "role_name": "AI Solutions Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/bland/5e0347dd-eb4b-4820-9878-99a2cb766893",
+      "employment_type": "FullTime",
+      "team": "Customer Success",
+      "published_date": "2025-07-31",
+      "compensation": "",
+      "job_id": "6bc92fb2",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Bland"
+    },
+    {
+      "role_name": "Full Stack Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/bland/1aa16d2c-66e1-41d1-a55c-d3363cd11aa5",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-11",
+      "compensation": "$120K – $180K • Offers Equity • Offers Bonus",
+      "job_id": "a903d2ce",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Bland"
+    },
+    {
+      "role_name": "Machine Learning Engineer",
+      "location": "San Francisco",
+      "job_link": "https://jobs.ashbyhq.com/bland/05906608-0628-412c-8b01-a050d87986c5",
+      "employment_type": "FullTime",
+      "team": "Engineering",
+      "published_date": "2025-06-11",
+      "compensation": "$140K – $250K • Offers Equity • Offers Bonus",
+      "job_id": "71823785",
+      "first_seen": "2025-08-05",
+      "last_seen": "2025-08-05",
+      "status": "active",
+      "company": "Bland"
+    }
+  ],
+  "statistics": {
+    "new_positions_today": 4,
+    "closed_positions_today": 0,
+    "us_positions": 0,
+    "remote_positions": 0
+  }
+}
