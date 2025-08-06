@@ -132,13 +132,13 @@ Each position includes:
 ### 🚀 MCP-Optimized Access via HTTP
 ```bash
 # Get complete ML Engineer positions (1 request!)
-curl https://raw.githubusercontent.com/[username]/fast-ai-startup-jobs-dataset/main/data/indexes/by_role.json | jq '.roles["machine-learning-engineer"]'
+curl https://raw.githubusercontent.com/ilovemyapps/fast-ai-startup-jobs-dataset/main/data/indexes/by_role.json | jq '.roles["machine-learning-engineer"]'
 
 # Get complete Remote positions (1 request!)  
-curl https://raw.githubusercontent.com/[username]/fast-ai-startup-jobs-dataset/main/data/indexes/by_location.json | jq '.locations["Remote - USA"]'
+curl https://raw.githubusercontent.com/ilovemyapps/fast-ai-startup-jobs-dataset/main/data/indexes/by_location.json | jq '.locations["Remote - USA"]'
 
 # Traditional: Specific company
-curl https://raw.githubusercontent.com/[username]/fast-ai-startup-jobs-dataset/main/data/companies/openai.json
+curl https://raw.githubusercontent.com/ilovemyapps/fast-ai-startup-jobs-dataset/main/data/companies/openai.json
 ```
 
 ### Python Usage (MCP-Optimized)
@@ -147,15 +147,15 @@ import requests
 import json
 
 # MCP-friendly: Get ALL ML positions in 1 request
-response = requests.get('https://raw.githubusercontent.com/[username]/fast-ai-startup-jobs-dataset/main/data/indexes/by_role.json')
+response = requests.get('https://raw.githubusercontent.com/ilovemyapps/fast-ai-startup-jobs-dataset/main/data/indexes/by_role.json')
 ml_jobs = response.json()['roles']['machine-learning-engineer']
 
 # MCP-friendly: Get ALL Remote positions in 1 request  
-response = requests.get('https://raw.githubusercontent.com/[username]/fast-ai-startup-jobs-dataset/main/data/indexes/by_location.json')
+response = requests.get('https://raw.githubusercontent.com/ilovemyapps/fast-ai-startup-jobs-dataset/main/data/indexes/by_location.json')
 remote_jobs = response.json()['locations']['Remote - USA']
 
 # Traditional: Company overview
-response = requests.get('https://raw.githubusercontent.com/[username]/fast-ai-startup-jobs-dataset/main/data/indexes/master.json')
+response = requests.get('https://raw.githubusercontent.com/ilovemyapps/fast-ai-startup-jobs-dataset/main/data/indexes/master.json')
 companies = response.json()['companies']
 ```
 
