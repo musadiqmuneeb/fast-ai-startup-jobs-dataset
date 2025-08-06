@@ -43,7 +43,7 @@ Abridge, Anterior, Tennr, Flagship Pioneering
 
 
 ## If you would like to see final results in Notion:
-https://www.notion.so/xiaoshuaifm/22aa175fa91c80c1a09fe1911721e2cc?v=22aa175fa91c80439bd0000c8ddbdf1f
+https://xiaoshuaifm.notion.site/22aa175fa91c80c1a09fe1911721e2cc
 
 ## 📊 Quick Stats
 
